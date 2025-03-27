@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { CiSearch } from 'react-icons/ci';
 import moment from 'moment';
 import cloudy from './assets/Photos/cloudy.png';
-import rainy from './assets/Photos/rainy.png';
+import rainy from './assets/Photos/Rainy.png';
 import snowy from './assets/Photos/snowy.png';
 import sunnyimage from './assets/Photos/sunnyimage.png';
 import temperature from './assets/Photos/temperature.png';
