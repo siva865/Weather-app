@@ -31,7 +31,7 @@ function App() {
   const weatherimage = data && data.weather ? weatherimages[data.weather[0].main] : null;
 
   let date = new Date();
-  let formatdate = moment(date).format('Do, MM, YYYY');
+  let formatdate = moment(date).format('Do, MM, YYYY'); // Corrected format
 
   useEffect(() => { }, []);
 
